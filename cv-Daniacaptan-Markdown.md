@@ -9,6 +9,8 @@ phone: 81702625
 location: "Tripoli, Bahsas “
 github: *Dania-c*
 
+![Dania Captan picture!]("/daniaPic.jpeg")
+
 ---
 
 # Professional Experience
@@ -49,5 +51,5 @@ SQL, HTML, Css, Javascript.
 
 #### Educational courses
 
--teaching skills (summer of 2016)
--online course with Alison.com about teaching student with difficulties (summer of 2014)
+- teaching skills (summer of 2016)
+- online course with Alison.com about teaching student with difficulties (summer of 2014)
