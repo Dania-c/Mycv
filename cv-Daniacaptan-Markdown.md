@@ -1,33 +1,34 @@
----
 title: "Résumé"
+
+> # Personal information
+
 author: "Dania Captan"
 date: "2/25/2021"
 
-# How can we get a hold of you?
+##### How can we get a hold of you?
+
 email: *DaniaCaptan@gmail.com*
 phone: 81702625
 location: "Tripoli, Bahsas “
-github: *Dania-c*
+github: _Dania-c_
 
 ![Dania Captan picture!]("/daniaPic.jpeg")
 
----
+> # Professional Experience
 
-# Professional Experience
-
-## Teaching
+#### Teaching
 
 - 4 years of teaching mathematics in Tripoli .
 - 10 years of teaching mathematics outside Tripoli .
 - 3 years of teaching Microsoft Office for beginner and intermediate
 
-## Programming
+#### Programming
 
 - 3 years of coding in Softwave Company with old visual Basic.
 - 6 months of coding in Afaq company .
   .
 
-# Education
+> # Education
 
 Holding one main university degree.
 
@@ -39,7 +40,7 @@ Maitrise in computer Science from the Lebanese university
 
 Second year in English Literature department at the Lebanese university .
 
-# Technical Skills
+> # Technical Skills
 
 SQL, HTML, Css, Javascript.
 
